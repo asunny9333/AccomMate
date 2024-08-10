@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AccomMate</string>
+    <string name="welcome_message">Welcome to AccomMate</string>
+    <string name="search_hint">Search for accommodations</string>
+    <string name="view_list">View List</string>
+    <string name="book_now">Book Now</string>
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="about_text">about\n</string>
+</resources>
